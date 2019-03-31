@@ -1,0 +1,29 @@
+{
+  "name": "redux-modules",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "dev": "backpack"
+  },
+  "dependencies": {
+    "backpack-core": "^0.8.3",
+    "immer": "^2.0.0",
+    "prop-types": "^15.7.2",
+    "reduce-reducers": "^0.4.3",
+    "redux": "^4.0.1",
+    "redux-actions": "^2.6.5",
+    "redux-starter-kit": "^0.4.3",
+    "voca": "^1.4.0"
+  },
+  "prettier": {
+    "trailingComma": "all",
+    "semi": true,
+    "singleQuote": true
+  },
+  "devDependencies": {
+    "jest": "^24.1.0",
+    "prettier": "^1.16.4",
+    "typescript": "^3.3.3"
+  }
+}
